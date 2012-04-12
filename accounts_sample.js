@@ -7,9 +7,9 @@ var accounts = {
 // escape them with backslashes (\) like this: 'pass\'word'
 
 
-'email': 'pass',
-'email2': 'pass2',
-
+'skristy2008@gmail.com': 'h3ll0w0rld',
+'christinasalgado@comcast.net': 'h3ll0w0rld',
+'ishh88@hotmail.com': 'h3ll0w0rld',
 	
 }// don't delete this line!
 
